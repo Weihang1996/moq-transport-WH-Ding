@@ -3156,7 +3156,8 @@ the datagram.
 An endpoint that receives an unknown stream or datagram type MUST close the
 session.
 
-Every Object has its own forwarding preference, so the Original Publisher MAY mix different forwarding preferences within a single track.
+Every Object has its own forwarding preference, so the Original Publisher MAY
+mix different forwarding preferences within a single track.
 
 ## Track Alias
 
